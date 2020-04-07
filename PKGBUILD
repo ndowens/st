@@ -2,8 +2,8 @@
 
 pkgname=st-luke-git
 _pkgname=st
-pkgver=0.8.2.r1115.689add8
-pkgrel=1.1
+pkgver=0.8.2.r1116.543c885
+pkgrel=1
 epoch=1
 pkgdesc="Luke's simple (suckless) terminal with vim-bindings, transparency, xresources, etc. "
 url='https://github.com/LukeSmithxyz/st'
