@@ -6,7 +6,7 @@
 [subrepo]
 	remote = https://github.com/LukeSmithxyz/st
 	branch = master
-	commit = 3f44e88d6e1df1ee07e7acb4935498855ecb22d3
-	parent = 160c5b5892305e0a40f1bb7ae05471e0e5129d37
+	commit = 7e01028f866d669396ed459e48dbb6b56852bb44
+	parent = e25350f22c593d3f85df38e421e7e39b3dee3541
 	method = merge
 	cmdver = 0.4.1
